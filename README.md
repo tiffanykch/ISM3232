@@ -1,2 +1,3 @@
-# My First Repository
-This is my first GitHub repository created for a class assignment.
+# This is my first document
+
+Here is a sentence. 
